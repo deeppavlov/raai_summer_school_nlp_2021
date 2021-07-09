@@ -7,4 +7,5 @@
 
 
 # Contacts
-Для добавления в tg группу потока NLP связываться с  @kudep
+Семинарист @kudep
+Группа tg https://t.me/joinchat/Cv0Yd5t_frk3Y2Qy
