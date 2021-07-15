@@ -8,6 +8,8 @@
 1. [Распознавание Именованных Сущностей]( https://colab.research.google.com/drive/1oPNE26Efwm6W7QRCI20NvR7kZ5fCR7tB?usp=sharingg )
 1. [Посимвольное Языковое Моделирование]( https://colab.research.google.com/drive/1yO1pfIyQ4qvZcILLxfrYscCDOsNuOfyN?usp=sharing )
 1. [Трансформеры]( https://colab.research.google.com/drive/1f5cnUAxq9I6RQDy-thQBhdLsqkKlDME9?usp=sharing )
+1. [Дообучение BERT на RTE]( https://drive.google.com/file/d/1uNmAIKyu0XqmN-Wh3yiUBt1enuGD_sfQ/view?usp=sharing )
+1. [ Pattern-Exploiting Training (PET) ]( https://drive.google.com/file/d/1aoSHyykhhhSz1e5tQf1v9ngKzu0Qo6Xl/view?usp=sharing )
 
 
 # Contacts
